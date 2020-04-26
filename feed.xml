@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>Plank.gr</author>
+  <title>Plank.gr</title>
+  <link href="https://plank.gr/feed.xml" rel="self" />
+  <link href="https://plank.gr/" />
+  <icon>https://plank.gr/favicon.ico</icon>
+  <logo>https://plank.gr/static/img/avatar.png</logo>
+  <updated>2020-04-26T19:09:38Z</updated>
+  
+</feed>
